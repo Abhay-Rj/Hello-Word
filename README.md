@@ -1,2 +1,3 @@
 # Hello-Word
-Setting up GIt
+Setting up Git
+Branching in Git
